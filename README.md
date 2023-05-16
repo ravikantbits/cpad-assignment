@@ -1,16 +1,11 @@
-# assignment_ravikant
+# CPAD Assignment 1
 
-Cross Platform App Development assignment.
+Cross Platform Application Development assignment 1.
 
-## Getting Started
+> By: Ravi Kant Pandey (**2022MT93177**)
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+This Project contains an application to maintain list of Books with all the details.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project build and tested on iOS and Android platforms.
